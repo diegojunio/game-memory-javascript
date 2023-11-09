@@ -28,7 +28,7 @@ const HOST = window.location.host;
 /***
  * Source folder for Card Images
  */
-const cardImageUrl ="../images/cardboard/";
+const cardImageUrl ="https://diegojunio.github.io/game-memory-javascript/src/images/interface/src/images/cardboard/";
 
 /***
  * Source folder for Musics
