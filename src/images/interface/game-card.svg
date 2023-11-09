@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 544 544">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_2);
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #53b9a4;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #014040;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        fill: #53b9a4;
+      }
+    </style>
+    <radialGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" cx="269.43" cy="272" fx="269.43" fy="272" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00a678" stop-opacity="0"/>
+      <stop offset=".01" stop-color="#009a71" stop-opacity=".07"/>
+      <stop offset=".06" stop-color="#00715b" stop-opacity=".33"/>
+      <stop offset=".13" stop-color="#00554b" stop-opacity=".52"/>
+      <stop offset=".22" stop-color="#004442" stop-opacity=".62"/>
+      <stop offset=".47" stop-color="#014040" stop-opacity=".65"/>
+      <stop offset=".62" stop-color="#013334" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#012326" stop-opacity=".95"/>
+    </radialGradient>
+  </defs>
+  <path class="cls-2" d="M2,486.81V57.19L57.19,2H486.81c21.55,21.55,33.63,33.63,55.19,55.19V486.81c-21.55,21.55-33.63,33.63-55.19,55.19H57.19c-21.55-21.55-33.63-33.63-55.19-55.19Z"/>
+  <polygon class="cls-1" points="61.33 532 12 482.67 12 61.33 61.33 12 482.67 12 532 61.33 532 482.67 482.67 532 61.33 532"/>
+  <polygon class="cls-3" points="119.23 2 142.3 25.07 401.23 25.07 424.77 1.54 119.23 2"/>
+  <polygon class="cls-3" points="119.23 541.54 142.3 518.46 401.23 518.46 424.77 542 119.23 541.54"/>
+  <polyline class="cls-3" points="531 281.79 515.43 266.21 531 250.64"/>
+  <polyline class="cls-3" points="12 281.79 27.57 266.21 12 250.64"/>
+</svg>
