@@ -6,7 +6,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("/src/images/interface/background-game-over.svg");
+    background-image: url("https://diegojunio.github.io/game-memory-javascript/src/images/interface/background-game-over.svg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
