@@ -28,7 +28,7 @@ const HOST = window.location.host;
 /***
  * Source folder for Card Images
  */
-const cardImageUrl = "/src/images/cardboard/";
+const cardImageUrl = HOST + "/src/images/cardboard/";
 
 /***
  * Source folder for Musics
