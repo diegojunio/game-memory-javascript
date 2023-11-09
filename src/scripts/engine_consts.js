@@ -52,9 +52,9 @@ var gameOver = document.getElementById('game-over');
 
 var volumeControlSoundFx = document.getElementById('soundfx-volume');
 
-var soundFxCardShow = new Audio('src/audio/hover.mp3');
-var soundFxError = new Audio('src/audio/error.mp3');
-var soundFxMatch = new Audio('src/audio/match.mp3');
+var soundFxCardShow = new Audio('/src/audio/hover.mp3');
+var soundFxError = new Audio('/src/audio/error.mp3');
+var soundFxMatch = new Audio('/src/audio/match.mp3');
 cardsPairsAmount = 8;
 let cardsMixed = [];
 
