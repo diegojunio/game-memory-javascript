@@ -28,17 +28,17 @@ const HOST = window.location.host;
 /***
  * Source folder for Card Images
  */
-const cardImageUrl = HOST + "/src/images/cardboard/";
+const cardImageUrl ="../images/cardboard/";
 
 /***
  * Source folder for Musics
  */
-const musicUrl ="/src/audio/music/";
+const musicUrl ="../audio/music/";
 
 /***
  * Source folder for Sound Effects
  */
-const soundFxUrl = "/src/audio/soundfx";
+const soundFxUrl = "../audio/soundfx";
 
 /**
  * Selector for Game Board ID
@@ -52,9 +52,9 @@ var gameOver = document.getElementById('game-over');
 
 var volumeControlSoundFx = document.getElementById('soundfx-volume');
 
-var soundFxCardShow = new Audio( HOST + '/src/audio/hover.mp3');
-var soundFxError = new Audio(HOST + '/src/audio/error.mp3');
-var soundFxMatch = new Audio(HOST + '/src/audio/match.mp3');
+var soundFxCardShow = new Audio('../audio/hover.mp3');
+var soundFxError = new Audio('../audio/error.mp3');
+var soundFxMatch = new Audio('../audio/match.mp3');
 
 cardsPairsAmount = 8;
 let cardsMixed = [];
